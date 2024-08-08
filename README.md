@@ -12,7 +12,7 @@ author of [MotionBenchMaker](https://github.com/KavrakiLab/motion_bench_maker?ta
 - `panda_benchmarks.sqlite`: Contains different scenes with a motion planning query for each scene for a panda arm.
 - `ur_benchmarks.sqlite`: Contains different scenes with a motion planning query for each scene for a ur5 arm.
 
-Scene names (0001 - 0010) in `panda_benchmarks.sqlite` (ROBOT is `panda`) and `ur_benchmarks.sqlite` (ROBOT_NAME is `ur5`):
+Scene names (0001 - 0010) in `panda_benchmarks.sqlite` (ROBOT is `panda`) and `ur_benchmarks.sqlite` (ROBOT is `ur5`):
 - `bookshelf_small_ROBOT/scene0001.yaml`
 - `bookshelf_small_ROBOT/scene_sensed0001.yaml`
 - `bookshelf_tall_ROBOT/scene0001.yaml`
