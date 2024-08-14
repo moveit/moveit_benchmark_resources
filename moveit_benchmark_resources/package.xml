@@ -2,7 +2,7 @@
 <package format="3">
   <name>moveit_benchmark_resources</name>
   <version>1.0.0</version>
-  <description>Databases for MoveIt benchmarking</description>
+  <description>Databases and bag files for MoveIt 2 benchmarking and tutorials</description>
 
   <author email="sebastian.jahr@picknik.ai">Sebastian Jahr</author>
   <maintainer email="moveit_releasers@googlegroups.com">MoveIt Release Team</maintainer>
