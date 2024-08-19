@@ -1,3 +1,7 @@
 *.sqlite filter=lfs diff=lfs merge=lfs -text
+*.mcap filter=lfs diff=lfs merge=lfs -text
+*.yaml filter=lfs diff=lfs merge=lfs -text
 benchmarking/databases/panda_kitchen_test_db.sqlite filter=lfs diff=lfs merge=lfs -text
 benchmarking/databases/panda_test_db.sqlite filter=lfs diff=lfs merge=lfs -text
+benchmarking/databases/depth_camera_bag/depth_camera_datas.mcap filter=lfs diff=lfs merge=lfs -text
+benchmarking/databases/depth_camera_bag/metadata.yaml filter=lfs diff=lfs merge=lfs -text
